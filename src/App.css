@@ -1,4 +1,43 @@
-.App {
+* {
+  margin: 0;
+  padding: 0;
+}
+.container-fluid {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  background-color: #f9f9db;
+  padding: 0;
+  margin: 0;
+}
+
+.p-l-r-0 {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +74,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
